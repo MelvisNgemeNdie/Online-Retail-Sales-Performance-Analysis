@@ -1,5 +1,5 @@
 # Online Retail Sales Performance Analysis
-## Description
+## Project Overview
 As part of the **Tata Consultancy Data Visualisation Consultant Virtual Work Experience Program**, I analyzed **542K+ online retail sales invoice records** to uncover key performance insights on **sales, customer behavior, and international expansion opportunities**.  
 
 ---
