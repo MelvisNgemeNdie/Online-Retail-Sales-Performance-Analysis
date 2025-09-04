@@ -37,10 +37,12 @@ The company needed to evaluate:
 
 ---
 
-### 📷 Dashboard Preview
-*(Add a screenshot of your Tableau dashboard here )*  
+### 📷 Dashboard Preview 
 
-[![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
+![Tata Consulting Dashboard](./Tata%20Consulting.png)
+
+
+
 
 ---
 
