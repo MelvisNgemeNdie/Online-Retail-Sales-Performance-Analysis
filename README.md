@@ -37,12 +37,9 @@ The company needed to evaluate:
 
 ---
 
-### 📷 Dashboard Preview 
+### Dashboard Preview 
 
 ![Tata Consulting Dashboard](./Tata%20Consulting.png)
-
-
-
 
 ---
 
